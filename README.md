@@ -6,7 +6,7 @@ You can browse static version of these notebooks here on GitHub, or click the `b
 badge below to launch of live Jupyter Notebook server with the notebooks in this 
 repo.
 
-[![Binder](https://beta.mybinder.org/badge.svg)](https://mybinder.org/v2/gh/altair-viz/altair_notebooks/master?urlpath=%2Flab)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/adrienpacifico/altair/master?filepath=https%3A%2F%2Fgithub.com%2Fadrienpacifico%2Faltair_notebooks%2Fblob%2Fmaster%2Fnotebooks%2F01-Index.ipynb)
 
 ## Example
 

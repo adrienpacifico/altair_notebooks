@@ -4,6 +4,7 @@ ipython
 jsonschema
 jupyterlab>=0.32.0
 numpy
+matplotlib
 pandas
 six
 toolz
